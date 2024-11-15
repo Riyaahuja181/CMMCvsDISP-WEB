@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyber Lens</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+     <script src="script.js" defer></script>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="logo">
+            <!-- Little house icon SVG -->
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home">
+                <path d="M3 9l9-7 9 7"></path>
+                <path d="M9 22V12h6v10"></path>
+            </svg>
+            <span class="site-title">CyberLens</span>
+        </div>
+        <div class="auth-buttons">
+            <a href="login.html" class="button">Login</a> 
+            <a href="signup.html" class="button">Sign Up</a>
+        </div>
+    </header>
+       <!-- Content Section -->
+        <section class="content-section">
+     <h1>Australia Industry Understanding of DISP vs CMMC</h1>
+     <p>Australia’s defence industry standards, CMMC (Cybersecurity Maturity Model Certification) and DISP (Defence Industry Security Program), are frameworks aimed at protecting both classified and unclassified information. CMMC focuses on cybersecurity requirements for U.S. defense contractors, while DISP secures Australian defense supply chains.</p>
+</section>
+
+  <section class="program-section">
+    <!-- CMMC Program -->
+    <div class="program-card">
+        <div class="image-container">
+            <a href="https://dodcio.defense.gov/CMMC/" target="_blank" class="program-link">
+                <img src="upload/cmmc.png" alt="CMMC Program" class="program-image">
+            </a>
+        </div>
+        <div class="program-description">
+            <p>The CMMC Program aligns with the DoD’s existing information security requirements for the DIB. It is designed to enforce the protection of sensitive unclassified information shared by the Department with its contractors and subcontractors. The program provides the DoD with increased assurance that contractors and subcontractors are meeting the cybersecurity requirements for nonfederal systems processing controlled unclassified information.</p>
+        </div>
+    </div>
+
+    <!-- DISP Program -->
+    <div class="program-card reverse">
+        <div class="image-container">
+            <a href="https://www.defence.gov.au/business-industry/industry-governance/industry-regulators/defence-industry-security-program" target="_blank" class="program-link">
+                <img src="upload/disp.png" alt="DISP Program" class="program-image">
+            </a>
+        </div>
+        <div class="program-description">
+            <p>DISP is a multi-level membership-based program underpinned by the Defence Security Principles Framework (DSPF), Principle 16, Defence Industry Security, Control 16.1, Defence Industry Security Program.</p>
+        </div>
+    </div>
+</section>
+
+      
+<!-- Comparison Feature Start -->
+<section class="comparison-section">
+    <div class="comparison-controls">
+        <label for="current-level">Select Current Level:</label>
+        <select id="current-level">
+            <option value="DISP Entry">DISP Entry</option>
+            <option value="DISP 1/2/3">DISP 1/2/3</option>
+            <option value="CMMC 1">CMMC 1</option>
+            <option value="CMMC 2">CMMC 2</option>
+        </select>
+        
+        <label for="desired-level">Select Desired Level:</label>
+        <select id="desired-level">
+            <option value="DISP Entry">DISP Entry</option>
+            <option value="DISP 1/2/3">DISP 1/2/3</option>
+            <option value="CMMC 1">CMMC 1</option>
+            <option value="CMMC 2">CMMC 2</option>
+            
+        </select>
+
+        <button id="compare-btn">Compare</button>
+    </div>
+
+    <div id="comparison-results" class="comparison-results">
+        <!-- Results will be displayed here -->
+    </div>
+</section>
+<!-- Comparison Feature End -->
+
+ <!-- Footer -->
+  <footer class="footer-bg">
+    <div class="footer-container">
+        <div class="footer-top">
+            <div class="footer-logo">
+                <span class="site-title">CyberLens</span>
+            </div>
+            <div class="footer-links">
+                <div class="footer-column">
+
+                     <ul class="footer-list">
+                        <li class="footer-item"><a href="#" class="footer-link">Home</a></li>
+                        <li class="footer-item"><a href="#" class="footer-link">Contact&About</a></li>
+                        
+                    </ul>
+                </div>
+                <div class="footer-column">
+                  <ul class="footer-list">
+                        <li class="footer-item"><a href="#" class="footer-link">Privacy Policy</a></li>
+                        <li class="footer-item"><a href="#" class="footer-link">Terms & Conditions</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <hr class="footer-divider">
+        <div class="footer-bottom">
+            <div class="footer-logos">
+                <a href="https://icentralau.com.au/canberra/" target="_blank">
+                    <img src="upload/ICC logo .png" alt="ICC Logo" id="icc-logo-footer">
+                </a>
+                <a href="https://www.canberra.edu.au/" target="_blank">
+                    <img src="upload/UC Transparent Logo .png" alt="UC Logo" id="uc-logo-footer">
+                </a>
+                <a href="https://www.cisco.com/c/en_au/about/contacts.html" target="_blank">
+                    <img src="upload/Cisco.png" alt="Cisco Logo" id="cisco-logo-footer">
+                </a>
+                <a href=https://www.cybercollaboration.org.au/ target="_blank">
+                    <img src="upload/ACCC.jpg" alt="ACCC logo" id="ACCC-logo-footer">
+                </a>
+            </div>
+            <div class="footer-text">
+                <p>&copy; 2024 CyberLens. All rights reserved.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>
