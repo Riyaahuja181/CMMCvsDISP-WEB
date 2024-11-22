@@ -1521,7 +1521,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     <th>ID</th>
                     <th>Control</th>
                     <th>Comments</th>
-                    <th>Control / Action</th>
+                    <th>Control /Action</th>
                     <th>Gaps</th>
                 </tr>
             `;
@@ -1544,7 +1544,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         <td>${match.ID}</td>
                         <td>${match.Control}</td>
                         <td>${match.Comments}</td>
-                        fetch<td>${match["Control / Action"]}</td>
+                        <td>${match["Control /Action"]}</td>
                         <td>${gapContent}</td>
                     </tr>
                 `;
