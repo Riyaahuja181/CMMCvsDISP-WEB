@@ -263,7 +263,7 @@
         "CMMC 2": "N/A",
         "Comments": "No mention in DISP",
         "Control /Action": "Control information posted or processed on publicly accessible information systems.",
-        "Sheet Name": "DISP123 to CCMC 1"
+        "Sheet Name": "DISP123 to CMMC 1"
     },
     {
         "ID": "SC.L2- 3.13.13",
@@ -417,7 +417,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Alert in the event of an audit logging process failure.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "IA.L2-3.5.9",
@@ -431,7 +431,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP advice general use of password managers and change of admin default passwords, if ISO is used, this goes into detail and mentions use and change of temporary passwords under 9.3.1 use of secret authentication information",
         "Control /Action": "Allow temporary password use for system logons with an immediate change to a permanent password.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "CM.L2-3.4.4",
@@ -445,7 +445,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Analyze the security impact of changes prior to implementation.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "CM.L2-3.4.8",
@@ -459,7 +459,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. Covered under ICT & Cyber depending on which cyber security standard is used in this case ISO 27001/27002",
         "Control /Action": "Apply deny-by-exception (blacklisting) policy to prevent the use of unauthorized software or deny-all, permit-by-exception (whitelisting) policy to allow the execution of authorized software.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.15",
@@ -473,7 +473,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Authorize remote execution of privileged commands and remote access to security-relevant information.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.16",
@@ -487,7 +487,7 @@
         "CMMC 2": "X",
         "Comments": "This is not mentioned in DISP but covered under ISO 27002 13.1.3 Segregation in networks Some items of access control are covered under governance and others under ICT & Cyber",
         "Control /Action": "Authorize wireless access prior to allowing such connections.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "MA.L2-3.7.4",
@@ -501,7 +501,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Check media containing diagnostic and test programs for malicious code before the media are used in organizational systems.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "MP.L2-3.8.5",
@@ -515,7 +515,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP covers in ICT and Cyber using ISO 27002 ,8.3 Media handling. ",
         "Control /Action": "Control access to media containing CUI and maintain accountability for media during transport outside of controlled areas.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "CM.L2-3.4.9",
@@ -529,7 +529,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC Covered under ICT & Cyber depending on which cyber security standard is used in this case  ISO 27001/27002",
         "Control /Action": "Control and monitor user-installed software.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.18",
@@ -543,7 +543,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Control connection of mobile devices.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "MP.L2-3.8.7",
@@ -557,7 +557,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP covers depending on the chosen ICT and\nCyber standard, ISO covers under 8.3.1 Management of removable media",
         "Control /Action": "Control the use of removable media on system components.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AU.L2-3.3.5",
@@ -571,7 +571,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Correlate audit record review, analysis, and reporting processes for investigation and response to indications of unlawful, unauthorized, suspicious, or unusual activity.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AU.L2-3.3.1",
@@ -585,7 +585,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC  DISP uses DISO to audit systems and networks (checks maturity across all 4 domains)",
         "Control /Action": "Create and retain system audit logs and records to the extent needed to enable the monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "CM.L2-3.4.5",
@@ -599,7 +599,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Define, document, approve, and enforce physical and logical access restrictions associated with changes to organizational systems.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "SC.L2-3.13.6",
@@ -613,7 +613,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.   Not mentioned in DISP but briefly mentioned in ISO 27002 9.1.1 Access\ncontrol policy",
         "Control /Action": "Deny network communications traffic by default and allow network communications traffic by exception (i.e., deny all, permit by exception).",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "CA.L2-3.12.2",
@@ -627,7 +627,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Develop and implement plans of action designed to correct deficiencies and reduce or eliminate vulnerabilities in organizational systems.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "CA.L2-3.12.4",
@@ -641,7 +641,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP requires a current\nsecurity risk register or any other system of risk oversight and management",
         "Control /Action": "Develop, document, and periodically update system security plans that describe system boundaries, system environments of operation, how security requirements are implemented, and the relationships with or connections to other systems.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "IA.L2-3.5.6",
@@ -655,7 +655,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  This would be covered in detail under ISO 27002 if that is the chosen standard under 9.4.2 Secure log-on procedures",
         "Control /Action": "Disable identifiers after a defined period of inactivity.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "SC.L2-3.13.2",
@@ -669,7 +669,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP covers this under ICT and Cyber\ndepending on standard chosen, ISO 27002 14.2.5 Secure system engineering principles",
         "Control /Action": "Employ architectural designs, software development techniques, and systems engineering principles that promote effective information security within organizational systems.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.13",
@@ -683,7 +683,7 @@
         "CMMC 2": "X",
         "Comments": "Briefly mentioned in DISP under industry tip in ICT and Cyber then more comprehensively covered in ISO 27002",
         "Control /Action": "Employ cryptographic mechanisms to protect the confidentiality of remote access sessions.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "SC.L2- 3.13.11",
@@ -697,7 +697,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP does not mention this, but depending on the chosen standard, ISO 27002 covers in 10.1 Cryptographic controls",
         "Control /Action": "Employ FIPS-validated cryptography when used to protect the confidentiality of CUI.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "IA.L2-3.5.4",
@@ -711,7 +711,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  This would be covered in detail under ISO 27002 if that is the chosen standard",
         "Control /Action": "Employ replay-resistant authentication mechanisms for network access to privileged and non-privileged accounts.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "CM.L2-3.4.6",
@@ -725,7 +725,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC Covered under ICT & Cyber depending on which cyber security standard is used in this case ISO 27002",
         "Control /Action": "Employ the principle of least functionality by configuring organizational systems to provide only essential capabilities.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.5",
@@ -739,7 +739,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under ICT & Cyber depending on standard chosen, in this case ISO 27002 ",
         "Control /Action": "Employ the principle of least privilege, including for specific security functions and privileged accounts.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.19",
@@ -753,7 +753,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under DISP ICT & Cyber depending on standard chosen, in this case ISO 27001/2",
         "Control /Action": "Encrypt CUI on mobile devices and mobile computing platforms.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "IA.L2-3.5.7",
@@ -767,7 +767,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  Only mentioned in CMMC, DISP does not explicitly cover but advice to consider individual security and choose the most appropriate authentication, this would be covered in detail under ISO 27002 if that is the chosen standard",
         "Control /Action": "Enforce a minimum password complexity and change of characters when new passwords are created.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "MA.L2-3.7.3",
@@ -781,7 +781,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Ensure equipment removed for off-site maintenance is sanitized of any CUI.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AT.L2-3.2.1",
@@ -795,7 +795,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Ensure that managers, systems administrators, and users of organizational systems are made aware of the security risks associated with their activities and of the applicable policies, standards, and procedures related to the security of those systems.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "PS.L2-3.9.2",
@@ -809,7 +809,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP mentions this in terms of revalidating personnel\nclearance depending on change of circumstances and discusses it further in an industry tip case scenario",
         "Control /Action": "Ensure that organizational systems containing CUI are protected during and after personnel actions such as terminations and transfers.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AT.L2-3.2.2",
@@ -823,7 +823,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Ensure that personnel are trained to carry out their assigned information security-related duties and responsibilities.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AU.L2-\n3.3.2",
@@ -837,7 +837,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP is brief",
         "Control /Action": "Ensure that the actions of individual system users, can be uniquely traced to those users so they can be held accountable for their actions.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "IR.L2-3.6.1",
@@ -851,7 +851,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP discusses this at length using Industry tip scenarios",
         "Control /Action": "Establish an operational incident-handling capability for organizational systems that includes preparation, detection, analysis, containment, recovery, and user response activities.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "CM.L2-3.4.2",
@@ -865,7 +865,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP uses a downloadable tool to establish baseline and align it with DISO cyber maturity model. It also recommends seeking service from IT service provider.",
         "Control /Action": "Establish and enforce security configuration settings for information technology products employed in organizational systems.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "CM.L2-3.4.1",
@@ -879,7 +879,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP briefly mentions this, then allows for choice of standard to be used.",
         "Control /Action": "Establish and maintain baseline configurations and inventories of organizational systems (including hardware, software, firmware, and documentation) throughout the respective system development life cycles.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "SC.L2- 3.13.10",
@@ -893,7 +893,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP does not mention this, but depending on the chosen standard, ISO 27002 covers in 10.1.2 Key management",
         "Control /Action": "Establish and manage cryptographic keys for cryptography employed in organizational systems.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "SI.L2-3.14.7",
@@ -907,7 +907,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP using case studies and incidents and provide steps to follow",
         "Control /Action": "Identify unauthorized use of organizational systems.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "SC.L2-3.13.8",
@@ -921,7 +921,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP does not mention this, but depending on the chosen standard, ISO 27002 covers in 13.2.1 Information transfer policies and procedures",
         "Control /Action": "Implement cryptographic mechanisms to prevent unauthorized disclosure of CUI during transmission unless otherwise protected by alternative physical safeguards.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "MP.L2-3.8.6",
@@ -935,7 +935,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Implement cryptographic mechanisms to protect the confidentiality of CUI stored on digital media during transport unless otherwise protected by alternative physical safeguards.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "MP.L2-3.8.2",
@@ -949,7 +949,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, for DISP access to information depends on level of\nclearance. Physical security is divided into zones (1 to 5) with access controls in place, the security clearance levels determine the zone and material an\nindividual has access to.",
         "Control /Action": "Limit access to CUI on system media to authorized users.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AU.L2-3.3.9",
@@ -963,7 +963,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Limit management of audit logging functionality to a subset of privileged users.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.8",
@@ -977,7 +977,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under ICT & Cyber depending on standard chosen, in this case ISO 27002 ",
         "Control /Action": "Limit unsuccessful logon attempts.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "MP.L2-3.8.4",
@@ -991,7 +991,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  This is covered on DISP if ISO 27002 is used under 8.2.3 Handling of assets",
         "Control /Action": "Mark media with necessary CUI markings and distribution limitations.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.12",
@@ -1005,7 +1005,7 @@
         "CMMC 2": "X",
         "Comments": "Briefly mentioned in DISP under industry tip in ICT and Cyber, more comprehensively covered in ISO 27002",
         "Control /Action": "Monitor and control remote access sessions.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "SI.L2-3.14.6",
@@ -1019,7 +1019,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP briefly mentions on how to manage incidents and ISO mentions as well",
         "Control /Action": "Monitor organizational systems, including inbound and outbound communications traffic, to detect attacks and indicators of potential attacks.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "CA.L2-3.12.3",
@@ -1033,7 +1033,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Monitor security controls on an ongoing basis to ensure the continued effectiveness of the controls.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "SI.L2-3.14.3",
@@ -1047,7 +1047,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP advocates for system monitoring and provides further information on action response on case studies. This is further covered in ISO 12.4 Logging and monitoring",
         "Control /Action": "Monitor system security alerts and advisories and take action in response.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "IA.L2-3.5.11",
@@ -1061,7 +1061,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  This would be covered in detail under ISO 27002 if that is the chosen standard under 9.4.3 Password management system",
         "Control /Action": "Obscure feedback of authentication information.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "MA.L2-3.7.1",
@@ -1075,7 +1075,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP advice use of IT service provider to ensure the systems continuously meets standard.",
         "Control /Action": "Perform maintenance on organizational systems.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "RA.L2-3.11.1",
@@ -1089,7 +1089,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Periodically assess the risk to organizational operations (including mission, functions, image, or reputation), organizational assets, and individuals, resulting from the operation of organizational systems and the associated processing, storage, or transmission of CUI.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "CA.L2-3.12.1",
@@ -1103,7 +1103,7 @@
         "CMMC 2": "X",
         "Comments": "covered by both",
         "Control /Action": "Periodically assess the security controls in organizational systems to determine if the controls are effective in their application.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.7",
@@ -1117,7 +1117,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under ICT & Cyber depending on standard chosen, in this case ISO 27002 ",
         "Control /Action": "Prevent non-privileged users from executing privileged functions and capture the execution of such functions in audit logs.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "SC.L2-3.13.7",
@@ -1131,7 +1131,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.   Not mentioned in DISP, but it can be considered covered under ISO 6.2.2 Teleworking if ISO27002 is covered",
         "Control /Action": "Prevent remote devices from simultaneously establishing non-remote connections with organizational systems and communicating via some other connection to resources in external networks (i.e., split tunneling).",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "IA.L2-3.5.5",
@@ -1145,7 +1145,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  This would be covered in detail under ISO 27002 if that is the chosen standard under 9.4.2 Secure log-on procedures",
         "Control /Action": "Prevent reuse of identifiers for a defined period.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "SC.L2-3.13.4",
@@ -1159,7 +1159,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP covers this under ICT and Cyber\ndepending on standard chosen, ISO 27002 discusses further under 12.1.4 Separation of development, testing and operational environments",
         "Control /Action": "Prevent unauthorized and unintended information transfer via shared system resources.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "IA.L2-3.5.8",
@@ -1173,7 +1173,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  This would be covered in detail under ISO 27002 if that is the chosen standard",
         "Control /Action": "Prohibit password reuse for a specified number of generations.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "MP.L2-3.8.8",
@@ -1187,7 +1187,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP covers depending on the chosen ICT and\nCyber standard, ISO 27001/2 covers ",
         "Control /Action": "Prohibit the use of portable storage devices when such devices have no identifiable owner.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "PE.L2-3.10.2",
@@ -1201,7 +1201,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Protect and monitor the physical facility and support infrastructure for organizational systems.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AU.L2-3.3.8",
@@ -1215,7 +1215,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Protect audit information and audit logging tools from unauthorized access, modification, and deletion",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "SC.L2- 3.13.15",
@@ -1229,7 +1229,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP does not mention this, depending on standard chosen, ISO 27002 13\nCommunications security",
         "Control /Action": "Protect the authenticity of communications sessions.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "MP.L2-3.8.9",
@@ -1243,7 +1243,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  DISP briefly mentions this and further\ndiscusses on ICT and cyber and provides a comprehensive coverage of physical security of back up data, ISO 27002 covers under 12.3.1 Information backup",
         "Control /Action": "Protect the confidentiality of backup CUI at storage locations.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "SC.L2- 3.13.16",
@@ -1257,7 +1257,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  DISP does not explicitly mention this, under ICT and Cyber, ISO 27002 covers under 18.1.3 Protection of records",
         "Control /Action": "Protect the confidentiality of CUI at rest.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.17",
@@ -1271,7 +1271,7 @@
         "CMMC 2": "X",
         "Comments": "This is not mentioned in DISP but covered under ISO 27002 13.1.2 Security of network services",
         "Control /Action": "Protect wireless access using authentication and encryption.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AU.L2-3.3.7",
@@ -1285,7 +1285,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  Only indirectly implied in DISP but explicitly discussed in ISO 27002, 12.7 Information systems audit considerations",
         "Control /Action": "Provide a system capability that compares and synchronizes internal system clocks with an authoritative source to generate time stamps for audit records.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AU.L2-3.3.6",
@@ -1299,7 +1299,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Provide audit record reduction and report generation to support on-demand analysis and reporting.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "MA.L2-3.7.2",
@@ -1313,7 +1313,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP accepts self- certification at entry level and uses CIOG (defence authority for accrediting systems) for all levels above 1 This is comprehensively covered in ISO 27002 if that is the chosen ICT standard under 14.2.2 System change control procedures",
         "Control /Action": "Provide controls on the tools, techniques, mechanisms, and personnel used to conduct system maintenance.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AT.L2-3.2.3",
@@ -1327,7 +1327,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Provide security awareness training on recognizing and reporting potential indicators of insider threat.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "RA.L2-3.11.3",
@@ -1341,7 +1341,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP maintains an insider threat program with clear escalation pathways",
         "Control /Action": "Remediate vulnerabilities in accordance with risk assessments.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "CM.L2-3.4.7",
@@ -1355,7 +1355,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC Covered under ICT & Cyber depending on which cyber security standard is used in this case ISO 27001/2 ",
         "Control /Action": "Restrict, disable, or prevent the use of nonessential programs, functions, ports, protocols, and services.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AU.L2-3.3.3",
@@ -1369,7 +1369,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC briefly",
         "Control /Action": "Review and update logged events.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.14",
@@ -1383,7 +1383,7 @@
         "CMMC 2": "X",
         "Comments": "Briefly mentioned in DISP under ICT and Cyber on securing cloud services",
         "Control /Action": "Route remote access via managed access control points.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "RA.L2-3.11.2",
@@ -1397,7 +1397,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Scan for vulnerabilities in organizational systems and applications periodically and when new vulnerabilities affecting those systems and applications are identified.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "PS.L2-3.9.1",
@@ -1411,7 +1411,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  Both models cover screening, DISP goes into details in depth about its screening\nprocess in line with AS 4811-2006 employment screening process and maintains a DSAP list for clearance levels it also requires a description of the\nscreening process. DISP also mentions SO sponsoring clearances.",
         "Control /Action": "Screen individuals prior to authorizing access to organizational systems containing CUI.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.4",
@@ -1425,7 +1425,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC  Mentioned briefly on DISP, covered under ICT and Cyber depending on standard chosen. ",
         "Control /Action": "Separate the duties of individuals to reduce the risk of malevolent activity without collusion.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "SC.L2-3.13.3",
@@ -1439,7 +1439,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP covers this under ICT and Cyber\ndepending on standard chosen, ISO 27002 discusses further under 9.1.2 Access to networks and network services",
         "Control /Action": "Separate user functionality from system management functionality.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "IA.L2-3.5.10",
@@ -1453,7 +1453,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.   This would be covered in detail under ISO 27002 if that is the chosen standard under 9.4.2 Secure log-on procedures",
         "Control /Action": "Store and transmit only cryptographically protected passwords.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "MA.L2-3.7.6",
@@ -1467,7 +1467,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP is covered under ISO 27002\n11.2.4 Equipment maintenance",
         "Control /Action": "Supervise the maintenance activities of maintenance personnel without required access authorization.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.11",
@@ -1481,7 +1481,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Terminate (automatically) a user session after a defined condition.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "SC.L2-3.13.9",
@@ -1495,7 +1495,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP briefly covers this under ICT and Cyber and discusses further on ISO 27002 9.4.2 Secure log-on procedures",
         "Control /Action": "Terminate network connections associated with communications sessions at the end of the sessions or after a defined period of inactivity.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "IR.L2-3.6.2",
@@ -1509,7 +1509,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP requires maintain an inside thereat program with risks and mitigation strategies",
         "Control /Action": "Track, document, and report incidents to designated officials and/or authorities both internal and external to the organization",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "CM.L2-3.4.3",
@@ -1523,7 +1523,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Track, review, approve or disapprove, and log changes to organizational systems.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "IA.L2-3.5.3",
@@ -1537,7 +1537,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Use multifactor authentication for local and network access to privileged accounts and for network access to non-privileged accounts.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.6",
@@ -1551,7 +1551,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under ICT & Cyber depending on standard chosen, in this case ISO 27002 ",
         "Control /Action": "Use non-privileged accounts or roles when accessing nonsecurity functions.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "AC.L2-3.1.10",
@@ -1565,7 +1565,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Use session lock with pattern-hiding displays to prevent access and viewing of data after a period of inactivity.",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "DISP_ICT_1",
@@ -1579,7 +1579,7 @@
         "CMMC 2": "N/A",
         "Comments": "No mention in CMMC                          DISP requires defence accreditation of your network or standalone device (Levels 1,2,3)for entry level self accreditation with an IT service provider is allowed, CMMC does not",
         "Control /Action": "Get Defence accreditation of your network or standalone device",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "DISP_Gov_1",
@@ -1593,7 +1593,7 @@
         "CMMC 2": "N/A",
         "Comments": "No mention in CMMC",
         "Control /Action": "Must have a nominated (CSO) and (SO) who must be able to meet AGSVA eligibility requirements for Baseline clearance)\n",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "DISP_Gov_2",
@@ -1607,7 +1607,7 @@
         "CMMC 2": "N/A",
         "Comments": "No mention in CMMC",
         "Control /Action": "Report any substantial changes as soon as possible, including changes in Foreign Ownership, Control and Influence (FOCI) status",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "DISP_Pers_1",
@@ -1621,7 +1621,7 @@
         "CMMC 2": "N/A",
         "Comments": "No mention in CMMC                                                        CMMC does not mention personnel clearance or the agency doing the clearance",
         "Control /Action": "Screening in tiered levels of Information access from official/sensitive, protected, secret and top secret",
-        "Sheet Name": "CMMC 1 to DISP Entry"
+        "Sheet Name": "CMMC 1 to DISPEntry"
     },
     {
         "ID": "MP.L2-3.8.1",
@@ -1635,7 +1635,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP mentions this under physical security from level 1 onwards, covered in detail under ISO 27002 11.2.7 Secure\ndisposal or re-use of equipment",
         "Control /Action": "Protect (i.e., physically control and securely store) system media containing CUI, both paper and digital.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AU.L2-3.3.4",
@@ -1649,7 +1649,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Alert in the event of an audit logging process failure.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "IA.L2-3.5.9",
@@ -1663,7 +1663,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP advice general use of password managers and change of admin default passwords, if ISO is used, this goes into detail and mentions use and change of temporary passwords under 9.3.1 use of secret authentication information",
         "Control /Action": "Allow temporary password use for system logons with an immediate change to a permanent password.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "CM.L2-3.4.4",
@@ -1677,7 +1677,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Analyze the security impact of changes prior to implementation.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "CM.L2-3.4.8",
@@ -1691,7 +1691,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. Covered under ICT & Cyber depending on which cyber security standard is used in this case ISO 27001/27002",
         "Control /Action": "Apply deny-by-exception (blacklisting) policy to prevent the use of unauthorized software or deny-all, permit-by-exception (whitelisting) policy to allow the execution of authorized software.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.15",
@@ -1705,7 +1705,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Authorize remote execution of privileged commands and remote access to security-relevant information.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.16",
@@ -1719,7 +1719,7 @@
         "CMMC 2": "X",
         "Comments": "This is not mentioned in DISP but covered under ISO 27002 13.1.3 Segregation in networks Some items of access control are covered under governance and others under ICT & Cyber",
         "Control /Action": "Authorize wireless access prior to allowing such connections.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "MA.L2-3.7.4",
@@ -1733,7 +1733,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Check media containing diagnostic and test programs for malicious code before the media are used in organizational systems.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "MP.L2-3.8.5",
@@ -1747,7 +1747,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP covers in ICT and Cyber using ISO 27002 ,8.3 Media handling. ",
         "Control /Action": "Control access to media containing CUI and maintain accountability for media during transport outside of controlled areas.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "CM.L2-3.4.9",
@@ -1761,7 +1761,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC Covered under ICT & Cyber depending on which cyber security standard is used in this case  ISO 27001/27002",
         "Control /Action": "Control and monitor user-installed software.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.18",
@@ -1775,7 +1775,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Control connection of mobile devices.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "MP.L2-3.8.7",
@@ -1789,7 +1789,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP covers depending on the chosen ICT and\nCyber standard, ISO covers under 8.3.1 Management of removable media",
         "Control /Action": "Control the use of removable media on system components.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AU.L2-3.3.5",
@@ -1803,7 +1803,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Correlate audit record review, analysis, and reporting processes for investigation and response to indications of unlawful, unauthorized, suspicious, or unusual activity.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AU.L2-3.3.1",
@@ -1817,7 +1817,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC  DISP uses DISO to audit systems and networks (checks maturity across all 4 domains)",
         "Control /Action": "Create and retain system audit logs and records to the extent needed to enable the monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "CM.L2-3.4.5",
@@ -1831,7 +1831,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Define, document, approve, and enforce physical and logical access restrictions associated with changes to organizational systems.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "SC.L2-3.13.6",
@@ -1845,7 +1845,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.   Not mentioned in DISP but briefly mentioned in ISO 27002 9.1.1 Access\ncontrol policy",
         "Control /Action": "Deny network communications traffic by default and allow network communications traffic by exception (i.e., deny all, permit by exception).",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "CA.L2-3.12.2",
@@ -1859,7 +1859,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Develop and implement plans of action designed to correct deficiencies and reduce or eliminate vulnerabilities in organizational systems.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "CA.L2-3.12.4",
@@ -1873,7 +1873,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP requires a current\nsecurity risk register or any other system of risk oversight and management",
         "Control /Action": "Develop, document, and periodically update system security plans that describe system boundaries, system environments of operation, how security requirements are implemented, and the relationships with or connections to other systems.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "IA.L2-3.5.6",
@@ -1887,7 +1887,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  This would be covered in detail under ISO 27002 if that is the chosen standard under 9.4.2 Secure log-on procedures",
         "Control /Action": "Disable identifiers after a defined period of inactivity.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "SC.L2-3.13.2",
@@ -1901,7 +1901,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP covers this under ICT and Cyber\ndepending on standard chosen, ISO 27002 14.2.5 Secure system engineering principles",
         "Control /Action": "Employ architectural designs, software development techniques, and systems engineering principles that promote effective information security within organizational systems.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.13",
@@ -1915,7 +1915,7 @@
         "CMMC 2": "X",
         "Comments": "Briefly mentioned in DISP under industry tip in ICT and Cyber then more comprehensively covered in ISO 27002",
         "Control /Action": "Employ cryptographic mechanisms to protect the confidentiality of remote access sessions.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "SC.L2- 3.13.11",
@@ -1929,7 +1929,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP does not mention this, but depending on the chosen standard, ISO 27002 covers in 10.1 Cryptographic controls",
         "Control /Action": "Employ FIPS-validated cryptography when used to protect the confidentiality of CUI.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "IA.L2-3.5.4",
@@ -1943,7 +1943,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  This would be covered in detail under ISO 27002 if that is the chosen standard",
         "Control /Action": "Employ replay-resistant authentication mechanisms for network access to privileged and non-privileged accounts.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "CM.L2-3.4.6",
@@ -1957,7 +1957,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC Covered under ICT & Cyber depending on which cyber security standard is used in this case ISO 27002",
         "Control /Action": "Employ the principle of least functionality by configuring organizational systems to provide only essential capabilities.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.5",
@@ -1971,7 +1971,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under ICT & Cyber depending on standard chosen, in this case ISO 27002 ",
         "Control /Action": "Employ the principle of least privilege, including for specific security functions and privileged accounts.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.19",
@@ -1985,7 +1985,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under DISP ICT & Cyber depending on standard chosen, in this case ISO 27001/2",
         "Control /Action": "Encrypt CUI on mobile devices and mobile computing platforms.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "IA.L2-3.5.7",
@@ -1999,7 +1999,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  Only mentioned in CMMC, DISP does not explicitly cover but advice to consider individual security and choose the most appropriate authentication, this would be covered in detail under ISO 27002 if that is the chosen standard",
         "Control /Action": "Enforce a minimum password complexity and change of characters when new passwords are created.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "MA.L2-3.7.3",
@@ -2013,7 +2013,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Ensure equipment removed for off-site maintenance is sanitized of any CUI.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AT.L2-3.2.1",
@@ -2027,7 +2027,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Ensure that managers, systems administrators, and users of organizational systems are made aware of the security risks associated with their activities and of the applicable policies, standards, and procedures related to the security of those systems.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "PS.L2-3.9.2",
@@ -2041,7 +2041,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP mentions this in terms of revalidating personnel\nclearance depending on change of circumstances and discusses it further in an industry tip case scenario",
         "Control /Action": "Ensure that organizational systems containing CUI are protected during and after personnel actions such as terminations and transfers.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AT.L2-3.2.2",
@@ -2055,7 +2055,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Ensure that personnel are trained to carry out their assigned information security-related duties and responsibilities.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AU.L2-\n3.3.2",
@@ -2069,7 +2069,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP is brief",
         "Control /Action": "Ensure that the actions of individual system users, can be uniquely traced to those users so they can be held accountable for their actions.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "IR.L2-3.6.1",
@@ -2083,7 +2083,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP discusses this at length using Industry tip scenarios",
         "Control /Action": "Establish an operational incident-handling capability for organizational systems that includes preparation, detection, analysis, containment, recovery, and user response activities.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "CM.L2-3.4.2",
@@ -2097,7 +2097,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP uses a downloadable tool to establish baseline and align it with DISO cyber maturity model. It also recommends seeking service from IT service provider.",
         "Control /Action": "Establish and enforce security configuration settings for information technology products employed in organizational systems.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "CM.L2-3.4.1",
@@ -2111,7 +2111,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP briefly mentions this, then allows for choice of standard to be used.",
         "Control /Action": "Establish and maintain baseline configurations and inventories of organizational systems (including hardware, software, firmware, and documentation) throughout the respective system development life cycles.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "SC.L2- 3.13.10",
@@ -2125,7 +2125,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP does not mention this, but depending on the chosen standard, ISO 27002 covers in 10.1.2 Key management",
         "Control /Action": "Establish and manage cryptographic keys for cryptography employed in organizational systems.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "SI.L2-3.14.7",
@@ -2139,7 +2139,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP using case studies and incidents and provide steps to follow",
         "Control /Action": "Identify unauthorized use of organizational systems.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "SC.L2-3.13.8",
@@ -2153,7 +2153,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP does not mention this, but depending on the chosen standard, ISO 27002 covers in 13.2.1 Information transfer policies and procedures",
         "Control /Action": "Implement cryptographic mechanisms to prevent unauthorized disclosure of CUI during transmission unless otherwise protected by alternative physical safeguards.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "MP.L2-3.8.6",
@@ -2167,7 +2167,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Implement cryptographic mechanisms to protect the confidentiality of CUI stored on digital media during transport unless otherwise protected by alternative physical safeguards.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "MP.L2-3.8.2",
@@ -2181,7 +2181,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, for DISP access to information depends on level of\nclearance. Physical security is divided into zones (1 to 5) with access controls in place, the security clearance levels determine the zone and material an\nindividual has access to.",
         "Control /Action": "Limit access to CUI on system media to authorized users.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AU.L2-3.3.9",
@@ -2195,7 +2195,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Limit management of audit logging functionality to a subset of privileged users.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.8",
@@ -2209,7 +2209,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under ICT & Cyber depending on standard chosen, in this case ISO 27002 ",
         "Control /Action": "Limit unsuccessful logon attempts.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "MP.L2-3.8.4",
@@ -2223,7 +2223,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  This is covered on DISP if ISO 27002 is used under 8.2.3 Handling of assets",
         "Control /Action": "Mark media with necessary CUI markings and distribution limitations.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.12",
@@ -2237,7 +2237,7 @@
         "CMMC 2": "X",
         "Comments": "Briefly mentioned in DISP under industry tip in ICT and Cyber, more comprehensively covered in ISO 27002",
         "Control /Action": "Monitor and control remote access sessions.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "SI.L2-3.14.6",
@@ -2251,7 +2251,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP briefly mentions on how to manage incidents and ISO mentions as well",
         "Control /Action": "Monitor organizational systems, including inbound and outbound communications traffic, to detect attacks and indicators of potential attacks.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "CA.L2-3.12.3",
@@ -2265,7 +2265,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Monitor security controls on an ongoing basis to ensure the continued effectiveness of the controls.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "SI.L2-3.14.3",
@@ -2279,7 +2279,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP advocates for system monitoring and provides further information on action response on case studies. This is further covered in ISO 12.4 Logging and monitoring",
         "Control /Action": "Monitor system security alerts and advisories and take action in response.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "IA.L2-3.5.11",
@@ -2293,7 +2293,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  This would be covered in detail under ISO 27002 if that is the chosen standard under 9.4.3 Password management system",
         "Control /Action": "Obscure feedback of authentication information.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "MA.L2-3.7.1",
@@ -2307,7 +2307,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP advice use of IT service provider to ensure the systems continuously meets standard.",
         "Control /Action": "Perform maintenance on organizational systems.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "RA.L2-3.11.1",
@@ -2321,7 +2321,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Periodically assess the risk to organizational operations (including mission, functions, image, or reputation), organizational assets, and individuals, resulting from the operation of organizational systems and the associated processing, storage, or transmission of CUI.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "CA.L2-3.12.1",
@@ -2335,7 +2335,7 @@
         "CMMC 2": "X",
         "Comments": "covered by both",
         "Control /Action": "Periodically assess the security controls in organizational systems to determine if the controls are effective in their application.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.7",
@@ -2349,7 +2349,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under ICT & Cyber depending on standard chosen, in this case ISO 27002 ",
         "Control /Action": "Prevent non-privileged users from executing privileged functions and capture the execution of such functions in audit logs.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "SC.L2-3.13.7",
@@ -2363,7 +2363,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.   Not mentioned in DISP, but it can be considered covered under ISO 6.2.2 Teleworking if ISO27002 is covered",
         "Control /Action": "Prevent remote devices from simultaneously establishing non-remote connections with organizational systems and communicating via some other connection to resources in external networks (i.e., split tunneling).",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "IA.L2-3.5.5",
@@ -2377,7 +2377,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  This would be covered in detail under ISO 27002 if that is the chosen standard under 9.4.2 Secure log-on procedures",
         "Control /Action": "Prevent reuse of identifiers for a defined period.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "SC.L2-3.13.4",
@@ -2391,7 +2391,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP covers this under ICT and Cyber\ndepending on standard chosen, ISO 27002 discusses further under 12.1.4 Separation of development, testing and operational environments",
         "Control /Action": "Prevent unauthorized and unintended information transfer via shared system resources.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "IA.L2-3.5.8",
@@ -2405,7 +2405,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  This would be covered in detail under ISO 27002 if that is the chosen standard",
         "Control /Action": "Prohibit password reuse for a specified number of generations.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "MP.L2-3.8.8",
@@ -2419,7 +2419,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP covers depending on the chosen ICT and\nCyber standard, ISO 27001/2 covers ",
         "Control /Action": "Prohibit the use of portable storage devices when such devices have no identifiable owner.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "PE.L2-3.10.2",
@@ -2433,7 +2433,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Protect and monitor the physical facility and support infrastructure for organizational systems.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AU.L2-3.3.8",
@@ -2447,7 +2447,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Protect audit information and audit logging tools from unauthorized access, modification, and deletion",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "SC.L2- 3.13.15",
@@ -2461,7 +2461,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP does not mention this, depending on standard chosen, ISO 27002 13\nCommunications security",
         "Control /Action": "Protect the authenticity of communications sessions.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "MP.L2-3.8.9",
@@ -2475,7 +2475,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  DISP briefly mentions this and further\ndiscusses on ICT and cyber and provides a comprehensive coverage of physical security of back up data, ISO 27002 covers under 12.3.1 Information backup",
         "Control /Action": "Protect the confidentiality of backup CUI at storage locations.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "SC.L2- 3.13.16",
@@ -2489,7 +2489,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  DISP does not explicitly mention this, under ICT and Cyber, ISO 27002 covers under 18.1.3 Protection of records",
         "Control /Action": "Protect the confidentiality of CUI at rest.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.17",
@@ -2503,7 +2503,7 @@
         "CMMC 2": "X",
         "Comments": "This is not mentioned in DISP but covered under ISO 27002 13.1.2 Security of network services",
         "Control /Action": "Protect wireless access using authentication and encryption.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AU.L2-3.3.7",
@@ -2517,7 +2517,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  Only indirectly implied in DISP but explicitly discussed in ISO 27002, 12.7 Information systems audit considerations",
         "Control /Action": "Provide a system capability that compares and synchronizes internal system clocks with an authoritative source to generate time stamps for audit records.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AU.L2-3.3.6",
@@ -2531,7 +2531,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Provide audit record reduction and report generation to support on-demand analysis and reporting.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "MA.L2-3.7.2",
@@ -2545,7 +2545,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP accepts self- certification at entry level and uses CIOG (defence authority for accrediting systems) for all levels above 1 This is comprehensively covered in ISO 27002 if that is the chosen ICT standard under 14.2.2 System change control procedures",
         "Control /Action": "Provide controls on the tools, techniques, mechanisms, and personnel used to conduct system maintenance.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AT.L2-3.2.3",
@@ -2559,7 +2559,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Provide security awareness training on recognizing and reporting potential indicators of insider threat.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "RA.L2-3.11.3",
@@ -2573,7 +2573,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP maintains an insider threat program with clear escalation pathways",
         "Control /Action": "Remediate vulnerabilities in accordance with risk assessments.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "CM.L2-3.4.7",
@@ -2587,7 +2587,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC Covered under ICT & Cyber depending on which cyber security standard is used in this case ISO 27001/2 ",
         "Control /Action": "Restrict, disable, or prevent the use of nonessential programs, functions, ports, protocols, and services.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AU.L2-3.3.3",
@@ -2601,7 +2601,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC briefly",
         "Control /Action": "Review and update logged events.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.14",
@@ -2615,7 +2615,7 @@
         "CMMC 2": "X",
         "Comments": "Briefly mentioned in DISP under ICT and Cyber on securing cloud services",
         "Control /Action": "Route remote access via managed access control points.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "RA.L2-3.11.2",
@@ -2629,7 +2629,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Scan for vulnerabilities in organizational systems and applications periodically and when new vulnerabilities affecting those systems and applications are identified.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "PS.L2-3.9.1",
@@ -2643,7 +2643,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.  Both models cover screening, DISP goes into details in depth about its screening\nprocess in line with AS 4811-2006 employment screening process and maintains a DSAP list for clearance levels it also requires a description of the\nscreening process. DISP also mentions SO sponsoring clearances.",
         "Control /Action": "Screen individuals prior to authorizing access to organizational systems containing CUI.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.4",
@@ -2657,7 +2657,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC  Mentioned briefly on DISP, covered under ICT and Cyber depending on standard chosen. ",
         "Control /Action": "Separate the duties of individuals to reduce the risk of malevolent activity without collusion.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "SC.L2-3.13.3",
@@ -2671,7 +2671,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP covers this under ICT and Cyber\ndepending on standard chosen, ISO 27002 discusses further under 9.1.2 Access to networks and network services",
         "Control /Action": "Separate user functionality from system management functionality.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "IA.L2-3.5.10",
@@ -2685,7 +2685,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC.   This would be covered in detail under ISO 27002 if that is the chosen standard under 9.4.2 Secure log-on procedures",
         "Control /Action": "Store and transmit only cryptographically protected passwords.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "MA.L2-3.7.6",
@@ -2699,7 +2699,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP is covered under ISO 27002\n11.2.4 Equipment maintenance",
         "Control /Action": "Supervise the maintenance activities of maintenance personnel without required access authorization.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.11",
@@ -2713,7 +2713,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Terminate (automatically) a user session after a defined condition.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "SC.L2-3.13.9",
@@ -2727,7 +2727,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC. DISP briefly covers this under ICT and Cyber and discusses further on ISO 27002 9.4.2 Secure log-on procedures",
         "Control /Action": "Terminate network connections associated with communications sessions at the end of the sessions or after a defined period of inactivity.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "IR.L2-3.6.2",
@@ -2741,7 +2741,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC, DISP requires maintain an inside thereat program with risks and mitigation strategies",
         "Control /Action": "Track, document, and report incidents to designated officials and/or authorities both internal and external to the organization",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "CM.L2-3.4.3",
@@ -2755,7 +2755,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Track, review, approve or disapprove, and log changes to organizational systems.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "IA.L2-3.5.3",
@@ -2769,7 +2769,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Use multifactor authentication for local and network access to privileged accounts and for network access to non-privileged accounts.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.6",
@@ -2783,7 +2783,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under ICT & Cyber depending on standard chosen, in this case ISO 27002 ",
         "Control /Action": "Use non-privileged accounts or roles when accessing nonsecurity functions.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "AC.L2-3.1.10",
@@ -2797,7 +2797,7 @@
         "CMMC 2": "X",
         "Comments": "Covered under both DISP and CMMC",
         "Control /Action": "Use session lock with pattern-hiding displays to prevent access and viewing of data after a period of inactivity.",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "DISP_ICT_1",
@@ -2811,7 +2811,7 @@
         "CMMC 2": "N/A",
         "Comments": "No mention in CMMC                          DISP requires defence accreditation of your network or standalone device (Levels 1,2,3)for entry level self accreditation with an IT service provider is allowed, CMMC does not",
         "Control /Action": "Get Defence accreditation of your network or standalone device",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "DISP_Gov_1",
@@ -2825,7 +2825,7 @@
         "CMMC 2": "N/A",
         "Comments": "No mention in CMMC",
         "Control /Action": "Must have a nominated (CSO) and (SO) who must be able to meet AGSVA eligibility requirements for Baseline clearance)\n",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "DISP_Gov_2",
@@ -2839,7 +2839,7 @@
         "CMMC 2": "N/A",
         "Comments": "No mention in CMMC",
         "Control /Action": "Report any substantial changes as soon as possible, including changes in Foreign Ownership, Control and Influence (FOCI) status",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "DISP_Pers_1",
@@ -2853,7 +2853,7 @@
         "CMMC 2": "N/A",
         "Comments": "No mention in CMMC                                                        CMMC does not mention personnel clearance or the agency doing the clearance",
         "Control /Action": "Screening in tiered levels of Information access from official/sensitive, protected, secret and top secret",
-        "Sheet Name": "CCMC 1 to DIS123"
+        "Sheet Name": "CMMC 1 to DISP123"
     },
     {
         "ID": "DISP_ICT_1",
@@ -2867,7 +2867,7 @@
         "CMMC 2": "N/A",
         "Comments": "No mention in CMMC                          DISP requires defence accreditation of your network or standalone device (Levels 1,2,3)for entry level self accreditation with an IT service provider is allowed, CMMC does not",
         "Control /Action": "Get Defence accreditation of your network or standalone device",
-        "Sheet Name": "CCMC2 to DISP Entry"
+        "Sheet Name": "CMMC2 to DISPEntry"
     },
     {
         "ID": "DISP_Gov_1",
@@ -2881,7 +2881,7 @@
         "CMMC 2": "N/A",
         "Comments": "No mention in CMMC",
         "Control /Action": "Must have a nominated (CSO) and (SO) who must be able to meet AGSVA eligibility requirements for Baseline clearance)\n",
-        "Sheet Name": "CCMC2 to DISP Entry"
+        "Sheet Name": "CMMC2 to DISPEntry"
     },
     {
         "ID": "DISP_Gov_2",
@@ -2895,7 +2895,7 @@
         "CMMC 2": "N/A",
         "Comments": "No mention in CMMC",
         "Control /Action": "Report any substantial changes as soon as possible, including changes in Foreign Ownership, Control and Influence (FOCI) status",
-        "Sheet Name": "CCMC2 to DISP Entry"
+        "Sheet Name": "CMMC2 to DISPEntry"
     },
     {
         "ID": "DISP_Pers_1",
@@ -2909,7 +2909,7 @@
         "CMMC 2": "N/A",
         "Comments": "No mention in CMMC                                                        CMMC does not mention personnel clearance or the agency doing the clearance",
         "Control /Action": "Screening in tiered levels of Information access from official/sensitive, protected, secret and top secret",
-        "Sheet Name": "CCMC2 to DISP Entry"
+        "Sheet Name": "CMMC2 to DISPEntry"
     },
     {
         "ID": "DISP_ICT_1",

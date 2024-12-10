@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     var string = item['Sheet Name'];
                     var cl = string.split(" to ")[0];
                     var dl = string.split(" to ")[1];
-                    // console.log(cl,dl);
+                    console.log(cl,dl);
                     // console.log(currentLevel,desiredLevel);
                     if(cl==currentLevel && dl==desiredLevel)
                     {
