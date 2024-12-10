@@ -1,4 +1,4 @@
-import pandas as pd  # type: ignore
+import pandas as pd
 import json
 from datetime import datetime
 
@@ -6,24 +6,30 @@ from datetime import datetime
 file_path = './gaps1.xlsx'
 excel_file = pd.ExcelFile(file_path)  # Create ExcelFile object
 
-# List of sheet names you want to exclude
-excluded_sheets = [
-    'DISP vs CMMC',
-    'DISPEntry to CMMC1',
-    'DISPEntry to CMMC2',
-    'DISP123 to CMMC1',
-    'DISP123 to CMMC2',
-    'CMMC1 to DATAEntry',
-    'CMMC1 to DATA123',
-    'CMMC2 to DATAEntry',
-    'CMMC2 to DATA123'
+# List of sheet names you want to include
+included_sheets = [
+    'DISPEntry to CMMC 1',
+    'DISPEntry to CMMC 2',
+    'DISP123 to CMMC 1',
+    'DISP123 to CMMC 2',
+    'CMMC 1 to DISPEntry',
+    'CMMC 1 to DISP123',
+    'CMMC2 to DISPEntry',
+    'CMMC2 to DISP123'
 ]
 
 # Get all sheet names except the excluded ones
-sheets_to_load = [sheet for sheet in excel_file.sheet_names if sheet not in excluded_sheets]
+sheets_to_load = [sheet for sheet in excel_file.sheet_names if sheet in included_sheets]
+
 
 # Read only the selected sheets into a dictionary
 data_dict = {sheet: excel_file.parse(sheet) for sheet in sheets_to_load}
+# for sheet in sheets_to_load:
+#     print(sheet)
+#     data = excel_file.parse(sheet)
+#     print(data)
+
+# print(data_dict)
 
 # Combine all sheets' data
 all_data = []

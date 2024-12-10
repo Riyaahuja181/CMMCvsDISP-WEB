@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     async function fetchData() {
         try {
             console.log('Fetching JSON data...');
-            const response = await fetch('update1.json'); git status
+            const response = await fetch('updated1.json');
 
             if (!response.ok) throw new Error('Error loading JSON file');
             const data = await response.json();
@@ -39,7 +39,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
         console.log('Data fetched, starting comparison...');
         const matches = data.filter(
-            item => item.currentLevel === currentLevel && item.desiredLevel === desiredLevel
+            item => 
+                {
+                    // console.log(item.ID);
+                    var string = item['Sheet Name'];
+                    var cl = string.split(" to ")[0];
+                    var dl = string.split(" to ")[1];
+                    // console.log(cl,dl);
+                    // console.log(currentLevel,desiredLevel);
+                    if(cl==currentLevel && dl==desiredLevel)
+                    {
+                        // console.log("hello");
+                        return true;
+                    }
+                }
         );
 
         console.log('Matching Data:', matches);
@@ -48,10 +61,10 @@ document.addEventListener('DOMContentLoaded', () => {
             console.log('Rendering matching data');
             const tableRows = matches.map(match => `
                 <tr>
-                    <td>${match.id}</td>
-                    <td>${match.control}</td>
-                    <td>${match.comments}</td>
-                    <td>${match.actions}</td>
+                    <td>${match.ID}</td>
+                    <td>${match.Control}</td>
+                    <td>${match.Comments}</td>
+                    <td>${match["Control /Action"]}</td>
                 </tr>
             `).join('');
 
